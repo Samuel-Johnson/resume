@@ -57,3 +57,14 @@ img{
 body {
     background-color: grey;
 }
+
+
+.container {
+    padding-top: 2%;
+    clear: left;
+    column-count: 2;
+    column-gap: 30px; /* Adjust the space between columns */
+    /* Optional: add a vertical line between columns */
+    column-rule: 1px solid #ccc;
+}
+
